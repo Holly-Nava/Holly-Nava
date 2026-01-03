@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where a designer tries to convince the internet sh
 
 I spend my days crafting user experiences and product strategies. I spend my nights asking Claude to explain what a "dependency" is for the fifth time.
 
-- By day: Pushing pixels, mapping user journeys, making things pretty and functional
+- By day: Pushing pixels, mapping user journeys, making things functional and beautiful
 - By night: Pushing code (with a lot of help), breaking things, googling error messages
 - Full-time: Pretending I understand what I'm doing
 
